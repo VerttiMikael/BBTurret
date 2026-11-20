@@ -5,7 +5,7 @@ Official Demo coming soon
 
 
 <p align="center">
-  <img src="assets/TurretModel.png" alt="Screenshot of the 3D model" width="600">
+  <img src="TurretModel.png" alt="Screenshot of the 3D model" width="600">
 </p>
 
 
