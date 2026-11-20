@@ -1,5 +1,5 @@
 # BBTurret
-Autonomous airsoft bb gun turret project
+Autonomous airsoft bb gun turret project with jetson orin nano and stepper motors.
 
 Official Demo coming soon 
 
