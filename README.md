@@ -4,6 +4,11 @@ Autonomous airsoft bb gun turret project
 Official Demo coming soon 
 
 
+<p align="center">
+  <img src="assets/TurretModel.png" alt="Screenshot of the 3D model" width="600">
+</p>
+
+
 
 https://github.com/user-attachments/assets/6ff3d901-512e-46e8-8cb6-13398ef8421e
 
