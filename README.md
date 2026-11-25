@@ -1,16 +1,10 @@
 # BBTurret
-Autonomous airsoft bb gun turret project with jetson orin nano and stepper motors.
+Autonomous airsoft bb gun turret project with Jetson Orin Nano and stepper motors.
 
-Official Demo coming soon 
+Demo can be found on my LinkedIn (Github size limit restricted on putting it here)
+https://www.linkedin.com/in/vertti-leppikangas/
 
 
 <p align="center">
   <img src="TurretModel.png" alt="Screenshot of the 3D model" width="600">
 </p>
-
-
-
-https://github.com/user-attachments/assets/6ff3d901-512e-46e8-8cb6-13398ef8421e
-
-
-https://github.com/user-attachments/assets/64a7a1a5-a997-4fce-a210-755f3fb116c7
